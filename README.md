@@ -31,5 +31,7 @@ ansible-playbook -i inventory.ini playbook.yml
 ```
 
 ## Captura de pantalla
-![Ejecución del playbook](imagen/Captura de pantalla 2026-07-20 165050.png), (imagen/Captura de pantalla 2026-07-20 165129.png)
+![Ejecución del playbook](imagen/playbook2.png),
+
+![Ejecución del playbook2] (imagen/playbook1.png)
 
